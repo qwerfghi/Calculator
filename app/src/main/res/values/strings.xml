@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+
+    <string name="button_left_bracket">(</string>
+    <string name="button_right_bracket">)</string>
+    <string name="button_exponentiation">^</string>
+    <string name="button_dot">.</string>
+    <string name="button_factorial">!</string>
+    <string name="button_sqrt">sqrt</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_multiplication">*</string>
+    <string name="button_division">/</string>
+    <string name="button_sin">sin</string>
+    <string name="button_cos">cos</string>
+
+    <string name="button_equal">=</string>
+    <string name="button_reset">C</string>
+    <string name="button_erase">|&lt;-</string>
+    <string name="zero_value">0</string>
+    <string name="button_tag">tan</string>
+    <string name="button_ctg">ctan</string>
+    <string name="button_ln">ln</string>
+</resources>
